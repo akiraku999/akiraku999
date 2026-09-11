@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝖆𝖐𝖎𝖗𝖆𝖐𝖚𝟗𝟗𝟗
+# akiraku
 ### `infosec` // `telecommunications`
 
 <br/>
